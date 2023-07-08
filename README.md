@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akash Kumar
-- 👀 I’m interested in to develop new idea of real wordl problem
-- 🌱 I’m currently learning java
+- 👀 I’m interested in developing new ideas of real-world problem
+- 🌱 I’m currently learning Spring -boot
 
 <!---
 Akash751/Akash751 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
