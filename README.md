@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Akash Kumar
-- 👀 I’m interested in developing new ideas of real-world problem
-- 🌱 I’m currently learning Spring -boot
+👋 Hey there! I'm Akash Kumar, a software engineer. My toolkit includes C++, Java, DSA, MySQL, Microservices, Gradle, Docker, REST APIs, Postman, Spring Boot, Jenkins, JSP, and GitLab. Explore my projects, and let's code the future together! 🚀
 
 <!---
 Akash751/Akash751 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
